@@ -16,7 +16,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mysql": "^2.18.1",
-    "xlsx": "^0.16.7"
+    "xlsx": "^0.18.0"
   },
   "repository": {
     "type": "git",
